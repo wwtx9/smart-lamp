@@ -3,11 +3,7 @@ The smart-lamp is my Embedded and Hybrid System Course Project designing a voice
 
 # Demo
 
-<a href="https://www.youtube.com/embed/mv_9snb_bKs" target="_blank"><img src="http://img.youtube.com/vi/mv_9snb_bKs/0.jpg" 
-alt="euroc" width="240" height="180" border="10" /></a>
-
-<img src="https://github.com/wwtx9/smart-lamp/demo.gif" alt="euroc" width="240" height="180" border="10"/>
-use your smartphone to control your lamp
+<img src="https://github.com/wwtx9/smart-lamp/blob/master/demo.gif" alt="euroc" width="240" height="180" border="10"/>
 
 
 # Other
